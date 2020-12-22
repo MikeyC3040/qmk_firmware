@@ -1,2 +1,3 @@
 RGBLIGHT_ENABLE = no       # Enable WS2812 RGB underlight.
-CONSOLE_ENABLE = yes
+CONSOLE_ENABLE = no
+OLED_DRIVER_ENABLE = yes
